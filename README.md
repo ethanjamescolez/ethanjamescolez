@@ -1,62 +1,60 @@
 <h1 align="center">EthanCole</h1>
 <p align="center">
-  Independent builder of public web tools, explainer sites, and AI products.
+  Independent maker building small, useful web products in AI, video, and search.
+</p>
+<p align="center">
+  I like products that explain themselves fast and become useful on the first visit.
 </p>
 
 <p align="center">
-  <a href="https://aiyoutubetranscript.com">AI YouTube Transcript</a>
+  <a href="https://aiyoutubetranscript.com"><strong>AI YouTube Transcript</strong></a>
   ·
-  <a href="https://happy-horse-video.com">Happy Horse Video</a>
+  <a href="https://happy-horse-video.com"><strong>Happy Horse Video</strong></a>
   ·
-  <a href="https://openplus.ai">OpenPlus</a>
+  <a href="https://openplus.ai"><strong>OpenPlus</strong></a>
   ·
-  <a href="https://ai-hermes-agent.com">AI Hermes Agent</a>
+  <a href="https://ai-hermes-agent.com"><strong>AI Hermes Agent</strong></a>
 </p>
 
-<p align="center">
-  <code>AI tools</code>
-  <code>public web products</code>
-  <code>explainer sites</code>
-  <code>developer UX</code>
-</p>
-
-## What I build
-
-I ship small, public-facing web products that aim to be useful on first visit. Most of my work sits at the intersection of AI workflows, search-oriented UX, and lightweight developer-facing tools.
-
-## Selected projects
+## Products
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://aiyoutubetranscript.com">AI YouTube Transcript</a></h3>
-      <p>Searchable YouTube transcripts with clean reading, timestamps, and export-friendly workflows.</p>
+      <p>Searchable YouTube transcripts with timestamps and export options for people who want the text fast.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://ai-hermes-agent.com">AI Hermes Agent</a></h3>
-      <p>A public explainer site focused on Hermes Agent paths, setup context, and practical entry points.</p>
+      <h3><a href="https://happy-horse-video.com">Happy Horse Video</a></h3>
+      <p>Video-focused utility pages and product experiments built around straightforward, low-friction flows.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://happy-horse-video.com">Happy Horse Video</a></h3>
-      <p>Video-oriented web tooling and experiments built around straightforward, low-friction product flows.</p>
+      <h3><a href="https://openplus.ai">OpenPlus</a></h3>
+      <p>A home for AI product ideas, utility pages, and experiments that are being actively refined in public.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://openplus.ai">OpenPlus</a></h3>
-      <p>AI product experiments, utility pages, and public web ideas that are actively being iterated on.</p>
+      <h3><a href="https://ai-hermes-agent.com">AI Hermes Agent</a></h3>
+      <p>An explainer-style site that helps people quickly understand Hermes Agent paths, setup context, and starting points.</p>
     </td>
   </tr>
 </table>
 
-## What I care about
+## What I optimize for
 
-- Clear interfaces over crowded dashboards
-- Fast, practical AI workflows
-- Public tools that explain themselves well
-- Shipping independently and improving through iteration
+- Small products with one clear job
+- Useful pages that work on the first visit
+- Fast iteration over long planning cycles
+- Simple UX, clear copy, and search-friendly distribution
 
-## Around the web
+## Current direction
+
+- Building public AI tools people can use immediately
+- Turning niche workflows into simple product surfaces
+- Shipping more utility sites and explanation-first pages
+
+## Try the products
 
 - [aiyoutubetranscript.com](https://aiyoutubetranscript.com)
 - [happy-horse-video.com](https://happy-horse-video.com)
