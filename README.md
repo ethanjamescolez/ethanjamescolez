@@ -13,31 +13,6 @@
   <a href="https://ai-hermes-agent.com"><strong>AI Hermes Agent</strong></a>
 </p>
 
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://aiyoutubetranscript.com">AI YouTube Transcript</a></h3>
-      <p>Searchable YouTube transcripts with timestamps and export options for people who want the text fast.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://happy-horse-video.com">Happy Horse Video</a></h3>
-      <p>Video-focused utility pages and web experiments built around straightforward, low-friction flows.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://openplus.ai">OpenPlus</a></h3>
-      <p>A home for AI tool ideas, utility pages, and web experiments that are being refined in public.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://ai-hermes-agent.com">AI Hermes Agent</a></h3>
-      <p>An explainer-style site that helps people quickly understand Hermes Agent paths, setup context, and starting points.</p>
-    </td>
-  </tr>
-</table>
-
 ## What I optimize for
 
 - Small tools with one clear job
