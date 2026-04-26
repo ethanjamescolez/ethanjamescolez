@@ -1,9 +1,6 @@
 <h1 align="center">EthanCole</h1>
 <p align="center">
-  Independent maker building small, useful web products in AI, video, and search.
-</p>
-<p align="center">
-  I like products that explain themselves fast and become useful on the first visit.
+  Independent maker building useful AI, video, and search tools that explain themselves quickly and become useful on the first visit.
 </p>
 
 <p align="center">
@@ -16,7 +13,7 @@
   <a href="https://ai-hermes-agent.com"><strong>AI Hermes Agent</strong></a>
 </p>
 
-## Products
+## Selected work
 
 <table>
   <tr>
@@ -26,13 +23,13 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://happy-horse-video.com">Happy Horse Video</a></h3>
-      <p>Video-focused utility pages and product experiments built around straightforward, low-friction flows.</p>
+      <p>Video-focused utility pages and web experiments built around straightforward, low-friction flows.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://openplus.ai">OpenPlus</a></h3>
-      <p>A home for AI product ideas, utility pages, and experiments that are being actively refined in public.</p>
+      <p>A home for AI tool ideas, utility pages, and web experiments that are being refined in public.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://ai-hermes-agent.com">AI Hermes Agent</a></h3>
@@ -43,7 +40,7 @@
 
 ## What I optimize for
 
-- Small products with one clear job
+- Small tools with one clear job
 - Useful pages that work on the first visit
 - Fast iteration over long planning cycles
 - Simple UX, clear copy, and search-friendly distribution
@@ -51,10 +48,10 @@
 ## Current direction
 
 - Building public AI tools people can use immediately
-- Turning niche workflows into simple product surfaces
+- Turning niche workflows into simple web surfaces
 - Shipping more utility sites and explanation-first pages
 
-## Try the products
+## Links
 
 - [aiyoutubetranscript.com](https://aiyoutubetranscript.com)
 - [happy-horse-video.com](https://happy-horse-video.com)
