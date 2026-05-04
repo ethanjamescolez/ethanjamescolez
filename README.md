@@ -13,4 +13,6 @@
   <a href="https://youtubetowav.io">youtubetowav.io</a>
   ·
   <a href="https://ai-hermes-agent.com">ai-hermes-agent.com</a>
+  ·
+  <a href="https://ai-vocal-remover.com">ai-vocal-remover.com</a>
 </p>
