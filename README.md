@@ -15,4 +15,6 @@
   <a href="https://ai-hermes-agent.com">ai-hermes-agent.com</a>
   ·
   <a href="https://ai-vocal-remover.com">ai-vocal-remover.com</a>
+  ·
+  <a href="https://detector-de-ia.net">detector-de-ia.net</a>
 </p>
