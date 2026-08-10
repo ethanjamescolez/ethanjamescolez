@@ -17,4 +17,6 @@
   <a href="https://ai-vocal-remover.com">ai-vocal-remover.com</a>
   ·
   <a href="https://detector-de-ia.net">detector-de-ia.net</a>
+  ·
+  <a href="https://taskbarherowiki.app">taskbarherowiki.app</a>
 </p>
