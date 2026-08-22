@@ -19,4 +19,6 @@
   <a href="https://detector-de-ia.net">detector-de-ia.net</a>
   ·
   <a href="https://taskbarherowiki.app">taskbarherowiki.app</a>
+  ·
+  <a href="https://imgphotoeditor.ai">AI Photo Editor</a>
 </p>
