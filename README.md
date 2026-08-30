@@ -18,11 +18,13 @@
   ·
   <a href="https://detector-de-ia.net">detector de ia</a>
   ·
-  <a href="https://taskbarherowiki.app">taskbarherowiki.app</a>
+  <a href="https://taskbarherowiki.app">Task Bar Hero Wiki</a>
   ·
   <a href="https://imgphotoeditor.ai">AI Photo Editor</a>
   ·
   <a href="https://imagetoimagegenerator.io">Image to Image Generator</a>
   ·
   <a href="https://youtubetowav.ai">youtubetowav.ai</a>
+  ·
+  <a href="https://ai3dlogo.com">AI 3D Logo</a>
 </p>
